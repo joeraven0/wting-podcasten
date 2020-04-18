@@ -1,4 +1,4 @@
 # wting-podcasten
 
-Hand in for course <wting> Umeå Uni
-  Plain HTML & css.
+Hand in for course <wting> Umeå Uni<br>
+Plain HTML & css.
